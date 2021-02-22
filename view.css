@@ -1,0 +1,14 @@
+body{
+    background-image:
+    linear-gradient(rgba(7, 4, 27, 0.774), rgba(4, 1, 24, 0.877)), url("images/background.jpg");
+}
+
+.splide{
+    align-content: center;
+    text-align: center;
+    
+}
+img{
+    width: 1024px; 
+    height: 576px;
+}
